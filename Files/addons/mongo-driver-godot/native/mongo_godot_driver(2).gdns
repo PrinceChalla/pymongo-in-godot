@@ -1,0 +1,8 @@
+[gde_resource type="NativeScript" load_steps=2 format=2]
+
+[gde_ext_resource path="res://addons/mongo-driver-godot/libmongo-driver-godot.gdnlib" type="GDExtensionLibrary" id=1]
+
+[gde_resource]
+resource_name = "MongoGodotDriver"
+class_name = "MongoGodotDriver"
+library = ExtResource(1)
